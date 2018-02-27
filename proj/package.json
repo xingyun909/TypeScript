@@ -21,6 +21,7 @@
     "clean-webpack-plugin": "^0.1.18",
     "html-webpack-plugin": "webpack-contrib/html-webpack-plugin",
     "source-map-loader": "^0.2.3",
+    "ts-loader": "^4.0.0",
     "typescript": "^2.7.2",
     "webpack": "^4.0.0",
     "webpack-cli": "^2.0.9",
