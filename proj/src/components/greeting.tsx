@@ -22,3 +22,6 @@ function getExclamationMarks(numChars : number) {
 }
 
 
+
+
+
